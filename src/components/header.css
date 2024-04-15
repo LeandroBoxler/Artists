@@ -20,3 +20,8 @@
 .fa-user{
     color: white;
 }
+#bars, #logo, #login{
+    font-size: 30px;
+    
+    padding: 10px;
+}

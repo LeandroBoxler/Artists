@@ -3,6 +3,7 @@ import { Outlet } from "react-router-dom";
 import { Sidebar } from '../components/Sidebar'
 
 import './App.css'
+import { Footer } from "../components/Footer";
 function App() {
  
 
@@ -11,7 +12,7 @@ function App() {
   <Sidebar/>
  <Outlet/>
 
-
+<Footer/>
     </>
   )
 }

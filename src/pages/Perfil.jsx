@@ -1,5 +1,5 @@
 import React from 'react'
-
+import "./perfil.css"
 export const Perfil = () => {
   return (
     <main class="main_perfil">
