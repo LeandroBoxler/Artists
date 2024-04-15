@@ -1,0 +1,30 @@
+.index_article{
+    margin: 2%;
+    padding: 3px;
+
+}
+.index_article-perfil{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px;
+}
+.index_article-imgPerfil{
+    width: 12%;
+    border-radius: 50%;
+}
+.index_article-img img{
+    width: 100%;
+    border-radius: 3%;
+}
+.index_article-img{
+    border: 1px solid gray;
+    border-radius: 3%;
+    margin: 2px;
+}
+.index_article-icons{
+    padding: 3px;
+}
+.fa-heart{
+    color: red;
+}
